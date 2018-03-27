@@ -1,11 +1,37 @@
 h1 {
-  color: MediumSeaGreen;
+  text-align: center;
+  color:#eca1a6; 
+  font-family: "Georgia", Serif;
+  background-color:#d5e1df;
+}
+
+img {
+    margin-left: 75px;
+    width: 25%;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    image-align: bottom; 
 }
 
 h2 {
-  color: MidnightBlue;
+  text-align: center;
+  color:Indigo;
+  background-color:lightblue;
 }
 
-h3 {
-  color: Turquoise;
+body {
+    background-image: url(http://miriadna.com/desctopwalls/images/max/Near-space.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
 }
+
+  ./*/div.fixed {
+    position: fixed;
+    bottom: 100px;
+    right: 500px;
+    width: 300px;
+    border: 3px solid #73AD21;
+  }
+*/
